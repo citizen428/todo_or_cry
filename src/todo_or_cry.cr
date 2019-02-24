@@ -5,7 +5,7 @@ CallStack.skip(__FILE__)
 
 # Todo items you can't ignore.
 # ```
-# TodoOrDie["fix this", Time.utc(2019, 1, 1)]
+# TodoOrCry["fix this", Time.utc(2019, 1, 1)]
 #
 # def broken_method; end
 # # => raises TodoOrCry::OverdueError

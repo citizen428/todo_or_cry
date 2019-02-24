@@ -1,4 +1,4 @@
-# TODO Or Cry!
+# TODO Or Cry! [![Build Status](https://travis-ci.org/citizen428/todo_or_cry.svg?branch=master)](https://travis-ci.org/citizen428/todo_or_cry)
 
 Crystal implementation of the [TODO Or Die!](https://github.com/searls/todo_or_die) Ruby gem by Justin Searls.
 Add TODOs in code that ensure you actually do them:
